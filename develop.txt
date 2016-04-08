@@ -1,6 +1,9 @@
 
 var awesomeFunction()
 {
+  // oager scheiß
+  
+
   return null;
 }
 
