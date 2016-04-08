@@ -11,5 +11,7 @@ int main()
 {
   // yolo und so
 
+  var x = 25 * 5;
+
   return 0;
 }
