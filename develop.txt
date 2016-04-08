@@ -1,3 +1,9 @@
+
+var awesomeFunction()
+{
+  return null;
+}
+
 int main()
 {
   // yolo und so
