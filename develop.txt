@@ -2,7 +2,8 @@
 var awesomeFunction()
 {
   // oager scheiß
-  
+  if(true)
+    return 42;
 
   return null;
 }
@@ -13,5 +14,7 @@ int main()
 
   var x = 25 * 5;
 
-  return 0;
+  var res = awesomeFunction() * x;
+
+  return res;
 }
