@@ -1,0 +1,6 @@
+
+// external lib handling everything
+
+class DBHandler implements DBInterface {
+  var connection;
+}
