@@ -1,3 +1,12 @@
+
+var awesomeFunction()
+{
+  // oager scheiß
+  
+
+  return null;
+}
+
 int main()
 {
   // yolo und so
